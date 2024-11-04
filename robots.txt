@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwatuoze.github.io/CxF/sitemap_index.txt
+Sitemap: https://iwatuoze.github.io/EKW/sitemap_index.txt
+Sitemap: https://iwatuoze.github.io/mNZ/sitemap_index.txt
+Sitemap: https://iwatuoze.github.io/wUm/sitemap_index.txt
